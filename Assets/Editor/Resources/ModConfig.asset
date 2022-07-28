@@ -14,7 +14,7 @@ MonoBehaviour:
   id: cryptoMarket
   title: Crypto Market
   author: Sean Obach
-  description: 'Calculate Crypto values and invest in each one depending on their
+  description: 'Calculate Crypto scores and invest in each one depending on their
     scores and the amount of money being used.
 
 
