@@ -18,7 +18,7 @@ MonoBehaviour:
     scores and the amount of money being used.
 
 
-'
+    Github: https://github.com/obachs971/CryptoMarket'
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 45bfde6772ced49489384498c8602a5e, type: 3}
